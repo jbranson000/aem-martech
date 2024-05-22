@@ -18,7 +18,7 @@ export const DEFAULT_CONFIG = {
   alloyInstanceName: 'alloy',
   dataLayer: true,
   dataLayerInstanceName: 'adobeDataLayer',
-  launchUrls: [],
+  launchUrls: ['https://assets.adobedtm.com/6b0313d3a74b/7e848798da85/launch-0b2f6a1f1260-development.min.js'],
   personalization: true,
 };
 
